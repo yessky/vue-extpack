@@ -1,0 +1,37 @@
+{
+  "name": "vue-extpack",
+  "displayName": "Vue2.0 Extension Pack",
+  "description": "VSCode Extension Pack for Vue2.0 Development",
+  "keywords": [
+    "vue",
+    "node",
+    "vuejs",
+    "javascript",
+    "eslint",
+    "prettier"
+  ],
+  "version": "0.0.1",
+  "publisher": "yessky",
+  "repository": {
+    "url": "https://github.com/yessky/vue-extpack"
+  },
+  "bugs": {
+    "url": "https://github.com/yessky/vue-extpack/issues"
+  },
+  "homepage": "https://github.com/yessky/vue-extpack",
+  "icon": "vue-icon.png",
+  "engines": {
+    "vscode": "^1.66.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [
+    "dbaeumer.vscode-eslint",
+    "eamodio.gitlens",
+    "EditorConfig.EditorConfig",
+    "esbenp.prettier-vscode",
+    "octref.vetur",
+    "yzhang.markdown-all-in-one"
+  ]
+}
