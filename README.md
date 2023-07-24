@@ -10,7 +10,7 @@ This VS Code Extension Pack adds features and language support for Vue.js 2.0 de
 - [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) -
   VS Code plugin for prettier/prettier
 - [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) - Markdown Support for VS Code
-- [Devpack Boot](https://marketplace.visualstudio.com/items?itemName=yessky.devpack-boot) - Install global ESLint & QAKit
+- [Devpack Bootstrap](https://marketplace.visualstudio.com/items?itemName=yessky.devpack-bootstrap) - Install global ESLint & QAKit
 
 ## Credits
 

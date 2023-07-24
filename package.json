@@ -10,7 +10,7 @@
     "eslint",
     "prettier"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "yessky",
   "repository": {
     "url": "https://github.com/yessky/vue-extpack"
@@ -27,7 +27,7 @@
     "Extension Packs"
   ],
   "extensionPack": [
-    "yessky.devpack-boot",
+    "yessky.devpack-bootstrap",
     "dbaeumer.vscode-eslint",
     "eamodio.gitlens",
     "EditorConfig.EditorConfig",
