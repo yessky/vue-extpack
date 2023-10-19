@@ -1,5 +1,9 @@
 # Change Log
 
+## 0.0.5
+
+- Remove extension gitlens, revert yessky.devpack-bootstrap
+
 ## 0.0.4
 
 - Remove extension yessky.devpack-bootstrap
